@@ -13,5 +13,4 @@ export class Student {
 
   @Column()
   lastName: string;
-
 }
